@@ -25,5 +25,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![trophy](https://github-profile-trophy.vercel.app/?username=webtux)
-![Fabrizzio's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrfabridev&show_icons=true)
+![trophy](https://github-profile-trophy.vercel.app/?username=mrfabridev)
+![Fabrizzio's GitHub stats](https://github-readme-stats.vercel.app/api?username=webtuxcl&show_icons=true)
