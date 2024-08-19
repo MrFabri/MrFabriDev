@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![trophy](https://github-profile-trophy.vercel.app/?username=mrfabridev)
-![Fabrizzio's GitHub stats](https://github-readme-stats.vercel.app/api?username=webtuxcl&show_icons=true)
+![Fabrizzio's GitHub stats](https://github-readme-stats.vercel.app/api?username=webtux&show_icons=true)
