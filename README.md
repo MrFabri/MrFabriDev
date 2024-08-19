@@ -10,7 +10,7 @@ A - Alpine JS <br>
 L - Laravel <br>
 L - Livewire <br>
 
-📫 How to reach me: fabrizzio@webtux.cl
+📫 How to reach me: MrFabriDev@gmail.com
 <!--
 **MrFabriDev/MrFabriDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![trophy](https://github-profile-trophy.vercel.app/?username=mrfabridev)
-![Fabrizzio's GitHub stats](https://github-readme-stats.vercel.app/api?username=webtux&show_icons=true)
+![Fabrizzio's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrfabridev&show_icons=true)
