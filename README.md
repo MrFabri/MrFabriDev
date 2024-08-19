@@ -1,6 +1,6 @@
-## Hello 👋
+## Hello my friend 👋
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mrfabridev)]
+![trophy](https://github-profile-trophy.vercel.app/?username=mrfabridev)
 <!--
 **MrFabriDev/MrFabriDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
