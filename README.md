@@ -27,6 +27,6 @@ Here are some ideas to get you started:
 -->
 ![Fabrizzio's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrfabridev&show_icons=true)
 
-![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrfabridev&layout=compact)
+![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=webtux&layout=compact)
 
 <!-- ![trophy](https://github-profile-trophy.vercel.app/?username=mrfabridev) -->
