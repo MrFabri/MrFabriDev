@@ -5,7 +5,7 @@
 I'm on the fullstack developer path. 
 I have reached a professional level in handling the TALL stack.
 
-T - Tailwind
+T - Tailwind <br>
 A - Alpine JS
 L - Laravel
 L - Livewire
