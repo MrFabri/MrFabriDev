@@ -6,9 +6,9 @@ I'm on the fullstack developer path.
 I have reached a professional level in handling the TALL stack.
 
 T - Tailwind <br>
-A - Alpine JS
-L - Laravel
-L - Livewire
+A - Alpine JS <br>
+L - Laravel <br>
+L - Livewire <br>
 
 📫 How to reach me: fabrizzio@webtux.cl
 <!--
