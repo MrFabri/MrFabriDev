@@ -2,7 +2,7 @@
 
 
 
-I'm on the fullstack developer path. 
+I'm on the fullstack developer path forever, becasuse im lifelong learner. 
 I have reached a professional level in handling the TALL stack.
 
 T - Tailwind <br>
