@@ -8,7 +8,7 @@ T - Tailwind <br>
 A - Alpine JS <br>
 L - Laravel <br>
 L - Livewire <br>
-
+![Example](https://github.com/mrfabridev/webtux.cl/actions/workflows/WORKFLOW.yml/badge.svg)
 
 Some of my works are: <br>
 https://condominio.cl <br>
