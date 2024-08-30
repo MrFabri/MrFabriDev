@@ -18,7 +18,10 @@ https://portal.sade.cl ➡️ Web applications for the most important company in
 https://app.sade.cl <br><br>
 https://admin.mediclean.cl
 <br><br>
- ##How to reach me: MrFabriDev@gmail.com  📫
+ ##How to reach me 📫
+mrfabridev@gmail.com  
+x.com/mrfabridev
+
 <br><br>
 
 ![Fabrizzio's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrfabridev&show_icons=true)
