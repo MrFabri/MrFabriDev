@@ -1,4 +1,5 @@
-## Hello my friend, I'm Fabrizzio  👋
+👋<br>
+## Hello my friend, I'm Fabrizzio  
 
 
 I'm on the fullstack developer path forever, becasuse im lifelong learner. 
@@ -9,16 +10,16 @@ A - Alpine JS <br>
 L - Laravel <br>
 L - Livewire <br>
 
-
-## Some of my works are: <br> 👷
+👷<br>
+## Some of my works are:  
 https://condominio.cl ➡️ Portal of services related to co proporties administration, services, insurances. Has a section to list properties with photos, descriptions, etc. <br><br>
 https://app.condominio.cl ➡️ Web applications for administrators to manage invoice, recipes, information and more related to renters and owners. Has email as a service features. <br><br>
 https://portal.sade.cl ➡️ Web applications for the most important company in Chile of Properties Administration. With the app, the mamangers can control the workflow of hes account executives.<br><br>
 https://app.sade.cl <br><br>
 https://admin.mediclean.cl<br><br>
 
-
-📫 How to reach me: MrFabriDev@gmail.com
+📫 <br>
+##How to reach me: MrFabriDev@gmail.com
 <!--
 **MrFabriDev/MrFabriDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
