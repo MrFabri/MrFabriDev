@@ -11,11 +11,11 @@ L - Livewire <br>
 
 
 ## Some of my works are: <br> 👷
-https://condominio.cl ➡️ Portal of services related to co proporties administration, services, insurances. Has a section to list properties with photos, descriptions, etc. <br>
-https://app.condominio.cl ➡️ Web applications for administrators to manage invoice, recipes, information and more related to renters and owners. Has email as a service features. <br>
-https://portal.sade.cl ➡️ Web applications for the most important company in Chile of Properties Administration. With the app, the mamangers can control the workflow of hes account executives.<br>
-https://app.sade.cl <br>
-https://admin.mediclean.cl
+https://condominio.cl ➡️ Portal of services related to co proporties administration, services, insurances. Has a section to list properties with photos, descriptions, etc. <br><br>
+https://app.condominio.cl ➡️ Web applications for administrators to manage invoice, recipes, information and more related to renters and owners. Has email as a service features. <br><br>
+https://portal.sade.cl ➡️ Web applications for the most important company in Chile of Properties Administration. With the app, the mamangers can control the workflow of hes account executives.<br><br>
+https://app.sade.cl <br><br>
+https://admin.mediclean.cl<br><br>
 
 
 📫 How to reach me: MrFabriDev@gmail.com
