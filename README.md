@@ -3,10 +3,10 @@
 I'm on the fullstack developer path forever, becasuse im lifelong learner. 
 I have reached a professional level in handling the TALL stack.
 
-T - Tailwind [v2 and v3]<br>
-A - Alpine JS <br>
-L - Laravel (v9 - v11) <br>
-L - Livewire (v2 and v3)<br>
+T - Tailwind [v2 and v3] [https://alpinejs](https://alpinejs.dev/)<br>
+A - Alpine JS [v2]<br>
+L - Laravel [v9 - v11] <br>
+L - Livewire [v2 and v3]<br>
 <br><br>
 
 
