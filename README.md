@@ -20,8 +20,9 @@ https://admin.mediclean.cl
 <br><br>
 
 ## How to reach me 📫
-![mrfabridev@gmail.com](mailto:mrfabridev@gmail.com )
-x.com/mrfabridev
+
+[mrfabridev@gmail.com](mailto:mrfabridev@gmail.com) <br>
+[x.com/mrfabridev](https://x.com/mrfabridev)
 
 <br><br>
 
